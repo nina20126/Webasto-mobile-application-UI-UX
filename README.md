@@ -1,5 +1,7 @@
 # Käyttöliittymän ja käyttäjäkokemuksen arviointi - Webasto mobiilisovellus
 
+**This project is available only in Finnish language.**  
+
 Tässä ryhmätyössä on arvioitu Webaston mobiilisovellusta käyttöliittymän ja käyttäjäkokemuksen näkökulmasta (UI/UX). Esille nousseisiin ongelmakohtiin on esitetty ratkaisuehdotus perusteluineen. Työ on tehty kuvankäsittelyohjelmia hyödyntäen, visualisoiden miltä paranneltu sovellus voisi näyttää, missä olisi loogiset paikat painikkeille ja miten Webaston värikarttaa voisi paremmin hyödyntää sovelluksessa.  
 
 Powerpoint esitys kokonaisuudessaan on nähtävillä tiedostossa webasto.pdf
